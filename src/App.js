@@ -582,7 +582,7 @@ function App() {
       </div>
       <div className="MainContainer" id='MainContainerid'>
         <div className="Overview" id='Overviewid'>Overview</div>
-        <div className="Calander" id='Calanderid'>Calander</div>
+        <div className="Calander" id='Calanderid'>Calender</div>
         <div className="PatientList" id='PatientListid'>
           <div className="PatientListr1">
             <div className="PatientListr1b1"><FontAwesomeIcon icon={faUser} className="patientuser"/></div>
